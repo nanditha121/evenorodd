@@ -1,7 +1,7 @@
 
     import java.util.Scanner;
 
-    public class m12ain {
+    public class main {
         public static void main(String[] args) {
             Scanner scan=new Scanner(System.in);
             int number= scan.nextInt();
